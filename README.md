@@ -13,4 +13,4 @@
 
     - Разработал программу и методику испытаний ([ПМИ](https://disk.yandex.ru/i/ss2cn_DL2qgrxg)).
     - Собрал [прототип приложения](https://www.figma.com/proto/fO03doKWWNFS7Sh5pVcdpy/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D0%9A%D1%80%D0%B0%D1%81%D1%81%D0%BE%D0%B2?page-id=1%3A1890&node-id=4-1699&viewport=367%2C481%2C0.37&scaling=scale-down&starting-point-node-id=4%3A1699&show-proto-sidebar=1) в Figma.
-    - Записал на видео [презентацию](https://disk.yandex.ru/i/AXQi-_L_9DVAxA) готового прототипа, используя шаги ПМИ.
+    - Записал на видео [презентацию](https://disk.yandex.ru/i/3sl7V29aDx24gA) готового прототипа, используя шаги ПМИ.
